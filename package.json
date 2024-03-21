@@ -30,7 +30,7 @@
     "karma-chrome-launcher": "^0.2.3",
     "karma-jasmine": "^0.3.8",
     "karma-sourcemap-loader": "^0.3.7",
-    "karma-webpack": "^1.7.0",
+    "karma-webpack": "^5.0.1",
     "react-addons-test-utils": "^0.14.8",
     "uglify-js": "^2.6.2",
     "webpack": "^1.12.14",
